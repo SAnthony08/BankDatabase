@@ -3,6 +3,8 @@
 //
 //Homework: Project 2
 //
+//TESTCOMMIT
+//
 //Record: struct definition for use in bank database
 *******************/
 #ifndef RECORD_H
